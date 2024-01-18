@@ -12,6 +12,12 @@
     color: gold;
 }
 
+.navbar-item.has-dropdown.is-active .navbar-link,
+.navbar-item.has-dropdown:focus .navbar-link,
+.navbar-item.has-dropdown:hover .navbar-link {
+    background-color: #397702
+}
+
 .is-active {
     font-weight: 600;
     background-color: #144502;
@@ -28,7 +34,10 @@ a.navbar-item {
     color: gold;
     background-color: #144502;
 }
-
+strong {
+    font-size: 30px;
+    font-weight: lighter;
+}
 
 .navbar-item, .navbar-link {
     color: gold;
