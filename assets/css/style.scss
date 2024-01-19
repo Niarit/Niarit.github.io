@@ -132,6 +132,30 @@ a.navbar-item.is-active {
     }
 }
 
+#locationSection{
+    display: block;
+}
+#Location {
+    align-items: baseline;
+    background-image: url('../../assets/images/locationMap.jpeg');
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: hard-light;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    display: block;
+}
+.locationText {
+    background-image: url('../../assets/images/locationMap.jpeg');
+    background-color: rgba(255,255,255,0.65);
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    color: black;
+    font-weight:bolder;
+}
+
 #blog {
     .hero-body {
         padding: 3rem 0.25rem 1rem 0.25rem;
@@ -227,6 +251,7 @@ a.navbar-item.is-active {
 #footer {
     background-color: #144502;
     #backtotop {
+        font-weight: bolder;
         transition: all 0.25s ease;
         width: 10rem;
         padding: 0.25rem;
@@ -234,6 +259,8 @@ a.navbar-item.is-active {
 
         &:hover {
             transform: scale(1.05);
+            background-color: rgba($color: #397702, $alpha: 1) !important;
+            color: wheat !important;
         }
     }
 
@@ -275,6 +302,7 @@ a.navbar-item.is-active {
     #credits {
         padding: 0.75rem;
         font-size: 0.85rem;
+        font-family: Poppins;
 
         a {
             text-decoration: underline;

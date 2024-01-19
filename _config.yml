@@ -3,7 +3,7 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl:
 
 # Title of the Site
 title: Gergő & Zsófi Esküvő
@@ -21,14 +21,6 @@ heroimage: ../../assets/images/hero.jpeg
 # If you don't want to use any icon, you can leave them blank.
 email: /
 facebook_username: /
-twitter_username: /
-instagram_username: /
-linkedin_username: /
-github_username:  /
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
 
 
 # Name of the Author
