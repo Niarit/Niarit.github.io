@@ -87,6 +87,7 @@ a.navbar-item.is-active {
         content: "";
     }
 }
+
 .title {
     margin: auto 0.75rem!important;
 }
@@ -95,19 +96,18 @@ a.navbar-item.is-active {
 }
 
 #about {
-    .image {
-        max-width: 20vmax;
-        margin: auto;
-
-        img {
-            border: 0.25rem dotted black;
-        }
-    }
-
+    background-color: #144502;
     a {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+}
+#invitation {
+    border:20px solid transparent;
+    border-image: url('../../assets/images/inviteBorder.png') 50 round;
+    border-image-slice: 100;
+    color: gold;
+    font-size: xx-large;
 }
 
 #contact {
@@ -147,7 +147,7 @@ a.navbar-item.is-active {
 }
 .locationText {
     background-image: url('../../assets/images/locationMap.jpeg');
-    background-color: rgba(255,255,255,0.65);
+    background-color: rgba(255,255,255,0.8);
     background-blend-mode: lighten;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -155,6 +155,27 @@ a.navbar-item.is-active {
     color: black;
     font-weight:bolder;
 }
+iframe{
+    border: 25px solid transparent;
+    border-image: url('../../assets/images/border.png') 50 round;
+}
+
+.google-maps {
+    position: relative;
+    padding-top: 30%;
+    height: 0;
+    overflow: hidden;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
 
 #blog {
     .hero-body {
