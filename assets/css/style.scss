@@ -158,6 +158,7 @@ a.navbar-item.is-active {
 iframe{
     border: 25px solid transparent;
     border-image: url('../../assets/images/border.png') 50 round;
+    border-image-slice: 100;
 }
 
 .google-maps {
