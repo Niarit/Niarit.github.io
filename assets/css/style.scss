@@ -30,6 +30,11 @@
     left: auto;
 }
 
+#dropdown {
+    font-family: 'Poppins';
+    font-weight: 200;
+}
+
 a.navbar-item {
     color: gold;
     background-color: #144502;
@@ -433,9 +438,17 @@ iframe{
 }
 
 #page-section {
+    font-family: 'Poppins';
     .content {
         ul, ol, blockquote {
             display: inline-block;
         }
     }
+}
+
+#formDescription {
+    font-size: larger;
+    display: block;
+    padding-bottom: inherit;
+    padding-top: inherit;
 }
