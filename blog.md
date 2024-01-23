@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Tudnivalok
 layout: blog
 ---
 
