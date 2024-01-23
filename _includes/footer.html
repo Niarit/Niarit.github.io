@@ -3,7 +3,7 @@
         <div class="container columns">
             <!--Link Section-->
             <div class="column has-text-white">
-                <h3>More Links</h3>
+                <h3>További hivatkozások</h3>
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
@@ -11,14 +11,11 @@
                 </li>
                 {% endunless %}
                 {% endfor %}
-                <li>
-                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
-                </li>
             </div>
 
             <!--Blog-post Section-->
             <div class="column has-text-white">
-                <h3>Recent Posts</h3>
+                <h3>Legutóbbi bejegyzések</h3>
                 {% for post in site.posts offset: 0 limit:3 %}
                 <li>
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>

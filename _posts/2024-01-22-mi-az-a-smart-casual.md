@@ -11,15 +11,15 @@ tags:
 
 A Smart casual viselet lényege nagyon egyszerű. Legyen kényelmes, de elegáns, könnyű, de csinos. A mindennapi öltözködésünk elegánsabb vonalát akarja megragadni, tehát ilyenkor is tanácsos kerülni a túl sportos ruházat viselését, mint a szűk vagy kopott farmert és sportcipőt.
 
-# Visszafogott elegancia és kényelmes mindennapok <br>
+# "Visszafogott elegancia és kényelmes mindennapok" <br>
 
-**Férfiaknak**
+### Férfiaknak
 
 
 Ez a pár szó a tematikája az egész stílusnak. Egy egyszerű zakó, vagy sportzakó, egy passzoló ing, kényelmes farmer, esetleg vászon nadrág, majd mindez "megkoronázva" egy szép oxford, tengerész esetleg akár papucs cipővel. Lényeges hogy kényelmes és szellős viselet legyen, akár csak táncolni, iszogatni vagy beszlégetni szeretnétek. Egy nyári esküvőn melegetek lesz, így hát nem kell begombolni azt a zakót, a nyakkendőt el is lehet felejteni és akár a bokátok is stílusosan kivillanhat a nadrágból, de az se árt, ha fel tudjátok tűrni az ing ujját. Az este előrehaladtával - ki tudja - még lehet erre is sor kerülhet.
 Nyugodtan játszhattok a kiegészítőkkel is, legyen az csak egy óra, karkötő, nyaklánc, gyűrű vagy netalántán egy nadrágtartó. Ezek teljes mértékben a ti ízlésetekre vannak bízva!
 
-**Nőknek**
+### Nőknek
 
 A fentebbi rövid mondat ide is vonatkozik ám! Ugyan a női ruhatár elemei valamivel tágabban értelmezik a Smart casual fogalmát, alapjaiban ugyan oda nyúlnak vissza. Legyen csinos, de kényelmes! Megkötés szinte alig van, akár egy ízléses overall, hosszú nyári ruha, könnyed szoknya és blúz kombinációja vagy akár egy kissé komlyabb blézer egy passzoló nadrággal is tökéletes választás lehet. Egyedül talán a feltűnő, rikító minták azok amik kerülendők, más azonban semmi! Mindaz amit egy randevúra vagy akár egy céges bulira felvennél, felveheted ide is.
 Cipő tekintetében pedig jól fontold meg hogy szeretnéd tölteni az estét. Lehet lapos talpú, magassarkú, zárt vagy nyitott a lábbelid, ez csak azon múlik, te miben érzed jobban magad! 
