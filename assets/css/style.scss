@@ -111,9 +111,23 @@ a.navbar-item.is-active {
     border:20px solid transparent;
     border-image: url('../../assets/images/inviteBorder.png') 50 round;
     border-image-slice: 100;
-    color: gold;
-    font-size: xx-large;
+    color: wheat;
+    font-size: x-large;
+    font-variant: small-caps;
+    font-weight: 900;
 }
+.iviteLinks{
+    color: wheat;
+    text-decoration: underline;
+}
+
+a.iviteLinks:hover{color:whitesmoke;}
+
+#column2 h1 {
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+
 
 #contact {
     #contact-button {
