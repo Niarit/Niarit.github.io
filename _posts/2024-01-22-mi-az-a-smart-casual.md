@@ -32,3 +32,6 @@ A téma egyszerű: J.R.R. Tolkien könyveinek díszes világa és mindaz, amiket
 Gondolj csak Bilbóra a történet elején, vagy a tündékre Völgyzugojban, esetleg a Pajkospóni fogadó vendégeire Bri-ben és hagyd hogy megihlessen majd otthon a szekrény előtt. Ameddig a fentebb leírt apró öltözködési szabályoknak megfelel, nyugodtan vedd fel, egyet azonban szeretnénk kikötni:
 
 **Ameddig nem Zsákos a családneved, kérlek érkezz cipőben!**
+
+
+Hello szia mizu
